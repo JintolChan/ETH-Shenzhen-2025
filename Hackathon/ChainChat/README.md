@@ -26,7 +26,7 @@
   GitHub: [https://github.com/YWJ-max](https://github.com/YWJ-max)
 
 ## PPT
-[https://www.123912.com/Weboffice/?CreateAt=1755955289&Etag=ffad629294152d205b25d3e7a353e94f&FileName=chainchat.pptx&S3KeyFlag=1818663352-0&Size=1045941&UpdateAt=1755955289&from=2&id=21476897&shareKey=zFqhjv-4JFtH&sharePwd=&type=p&uid=1818663352](https://www.123912.com/Weboffice/?CreateAt=1755955289&Etag=ffad629294152d205b25d3e7a353e94f&FileName=chainchat.pptx&S3KeyFlag=1818663352-0&Size=1045941&UpdateAt=1755955289&from=2&id=21476897&shareKey=zFqhjv-4JFtH&sharePwd=&type=p&uid=1818663352)
+[https://docs.google.com/presentation/d/1SsQnDtSfXv7USb-4Q5N2sF-_dlnyxPm4nirp5NYdL28/edit?usp=sharing](https://docs.google.com/presentation/d/1SsQnDtSfXv7USb-4Q5N2sF-_dlnyxPm4nirp5NYdL28/edit?usp=sharing)
 
 ## 项目演示
 [https://youtu.be/uceUl0OSGAw](https://youtu.be/uceUl0OSGAw)
